@@ -40,7 +40,7 @@ Saya adalah platform edukasi teknologi yang fokus membantu kamu belajar dari nol
 ## 📊 Statistik GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurektaid&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurektaid&layout=compact&theme=tokyonight)
 
 ---
 
